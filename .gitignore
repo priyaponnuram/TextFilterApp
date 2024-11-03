@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/TextFilterApp/FileContentIndex
+/TextFilterApp/bin/Debug/net8.0
+/TextFilterApp/obj
+/TextFilterApp.UnitTests/bin
+/TextFilterApp.UnitTests/obj
+/.vs/TextFilterApp/v17
+/.vs
